@@ -4,7 +4,7 @@ library(dplyr)
 library(ggplot2)
 
 
-data <- read_excel("C:/Users/CSLO/Downloads/MBA Projects/Yara/Yara.xlsx")
+data <- read_excel("C:/Users/CSLO/Downloads/MBA Projects/Employees/Employee.xlsx")
 df<-data
 str(df)
 
