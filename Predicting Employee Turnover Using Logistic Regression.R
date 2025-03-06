@@ -5,7 +5,7 @@ library(ggplot2)
 library(psych)
 library(nnet)
 
-data <- read_excel("C:/Users/CSLO/Downloads/MBA Projects/Lamees/Lamees.xlsx")
+data <- read_excel("C:/Users/CSLO/Downloads/MBA Projects/Employee Survey/Employee Survey.xlsx")
 df<-data
 str(df)
 
